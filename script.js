@@ -9,6 +9,7 @@ function myFunction(a, b) {
 myFunction(3, 4)
 myFunction(2, 5)
 
+
 // task 2
 function findQuarter(x, y) {
   let result;
