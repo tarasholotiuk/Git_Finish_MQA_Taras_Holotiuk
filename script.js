@@ -76,3 +76,4 @@ function findMax(a, b, c) {
 findMax(1, 2, 1);
 findMax(3, 4, 1);
 findMax(5, 5, 5);
+findMax(7, 7, 7);
