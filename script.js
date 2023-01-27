@@ -36,6 +36,7 @@ findQuarter(-3, -5)
 findQuarter(3, -5)
 findQuarter(3, 0)
 
+
 // task 3
 function sumPositive(arr) {
   let sum = 0
