@@ -46,6 +46,8 @@ function sumPositive(arr) {
   })
   console.log(sum)
 }
+
+
 // function sumPositive(arr) {
 //   let sum = arr.filter(item => item > 0).reduce((a, b) => a + b)
 //   console.log(sum)
