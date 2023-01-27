@@ -67,9 +67,12 @@ function findMax(a, b, c) {
     console.log(multi += 3)
   }
 }
+
+
 // function findMax(a, b, c) {
 //   console.log(Math.max(a * b * c, a + b + c) + 3)
 // }   
 // коротший варіант не використовуючи if...else
 findMax(1, 2, 1);
 findMax(3, 4, 1);
+findMax(5, 5, 5);
