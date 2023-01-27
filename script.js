@@ -72,3 +72,4 @@ function findMax(a, b, c) {
 // коротший варіант не використовуючи if...else
 findMax(1, 2, 1);
 findMax(3, 4, 1);
+findMax(7, 7, 7);
